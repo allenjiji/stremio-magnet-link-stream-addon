@@ -1,0 +1,15 @@
+{
+  "name": "remote_magnet_link_stream_addon",
+  "version": "1.0.0",
+  "description": "Remote Magnet Links Stream Addon",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.7.0",
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
