@@ -1,0 +1,10 @@
+{
+  "id": "org.latest_release_links",
+  "version": "1.0.0",
+  "name": "Latest Release Links",
+  "description": "Brings the stream links for latest releases",
+  "catalogs": [],
+  "resources": ["stream"],
+  "types": ["movie"],
+  "idPrefixes": ["tt"]
+ }
