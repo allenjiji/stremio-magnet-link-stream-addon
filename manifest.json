@@ -6,5 +6,6 @@
   "catalogs": [],
   "resources": ["stream"],
   "types": ["movie"],
-  "idPrefixes": ["tt"]
+  "idPrefixes": ["tt"],
+  "url": "https://stremio-movie-magnet-addon-mucfte4rg-allenjijis-projects.vercel.app"
  }
